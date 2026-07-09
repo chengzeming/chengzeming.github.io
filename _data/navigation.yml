@@ -1,19 +1,28 @@
-# main links links
+# main links
 main:
   - title: "简介"
-    url: "/zh-cn/#about-me"
+    url: "/#about-me"
 
-  - title: "学历"
-    url: "/zh-cn/#-xl"
+  - title: "教育背景"
+    url: "/#-xl"
 
-  - title: "论文专利"
-    url: "/zh-cn/#-lwzl"
+  - title: "研究论文"
+    url: "/#-lw"
 
-  - title: "荣誉奖项"
-    url: "/zh-cn/#-ryjx"
+  - title: "科研项目"
+    url: "/#-xm"
+
+  - title: "国际交流与学术训练"
+    url: "/#-jl"
 
   - title: "学术会议"
-    url: "/zh-cn/#-xshy"
+    url: "/#-hy"
 
-  - title: "工作实习"
-    url: "/zh-cn/#-gzsx"
+  - title: "政策报告"
+    url: "/#-policy"
+
+  - title: "荣誉奖励"
+    url: "/#-honors"
+
+  - title: "技能"
+    url: "/#-skills"

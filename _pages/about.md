@@ -40,8 +40,7 @@ redirect_from:
 
 # 🎓 教育背景
 
-- *2024.09 - 2027.06*, 陕西师范大学教育实验经济研究所，经济学硕士，专业：实验经济学  
-  项目组导师：唐彬博士、常芳教授、史耀疆教授  
+- *2024.09 - 2027.06*, 陕西师范大学教育实验经济研究所，经济学硕士，专业：实验经济学
   GPA：3.62/4.00（前 5%）
 
 - *2020.09 - 2024.06*, 山西财经大学统计学院，理学学士，专业：统计学  
@@ -63,7 +62,7 @@ redirect_from:
 - Tang, B., `Cheng, Z.*`, Lin, X., Ma, Y., Li, X., Liu, H.* (2026). Regional Innovation-Driven Platforms and Entrepreneurial Confidence: Evidence from Technology-based SMEs in China. *Sustainability*, 18(12), 5805.  
   `JCR Q2` `中科院三区` `通讯作者`
 
-- Shi, Y., Tang, B.*, `Cheng, Z.` (2026). Human Capital Cultivation and High-Quality Economic Development: Twenty Years of Practice and Experience with Randomized Controlled Trials in China’s Rural Education. *China Economic Journal*. Accepted & Forthcoming.  
+- Shi, Y., Tang, B.*, `Cheng, Z.` (2026). Human Capital Cultivation and High-Quality Economic Development: Twenty Years of Practice and Experience with Randomized Controlled Trials in China’s Rural Education. *China Economic Journal*. Accepted & Forthcoming.
   `JCR Q2` `中科院三区`
 
 - Tang, B., Lin, X., `Cheng, Z.`, Chang, F., Liu, H., Shi, Y. (2026). From Siblings to Skills: How Does Sibling Structure Shape Children’s Cognitive and Non-cognitive Abilities in Rural Northwest China. *Acta Psychologica*, 266, 106873.  

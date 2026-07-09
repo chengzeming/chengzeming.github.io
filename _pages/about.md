@@ -18,20 +18,14 @@ redirect_from:
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-<a href='https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID'>
+<a href='https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID&user=0sgDRb8AAAAJ'>
   <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用">
 </a>
 {% endcomment %}
 
 <span class='anchor' id='about-me'></span>
 
-我是 **成则鸣（Zeming Cheng）**，陕西师范大学教育实验经济研究所实验经济学专业硕士研究生。我的研究主要关注教育经济学、发展经济学、实验经济学与微观计量经济学，尤其关注农村教育、人力资本形成、学生认知与非认知能力发展，以及随机干预实验和因果推断方法在教育政策评估中的应用。
-
-硕士期间，我跟随项目团队参与多项大规模随机干预实验研究，较为完整地参与了从研究问题提出、干预设计、基线调研、项目实施、督导监测、追踪评估，到数据清理、实证分析、论文写作和政策倡导的研究过程。
-
-**Email:** [chengzemingceee@163.com](mailto:chengzemingceee@163.com)  
-**Affiliation:** 陕西师范大学教育实验经济研究所  
-**Address:** 西安市长安区西长安街 620 号
+我是 **成则鸣（Zeming Cheng）**，陕西师范大学教育实验经济研究所实验经济学专业硕士研究生。我的研究主要关注教育经济学、发展经济学、实验经济学与微观计量经济学，尤其关注农村教育、人力资本形成、学生认知与非认知能力发展，以及随机干预实验和因果推断方法在教育政策评估中的应用。硕士期间，我跟随项目团队参与多项大规模随机干预实验研究，较为完整地参与了从研究问题提出、干预设计、基线调研、项目实施、督导监测、追踪评估，到数据清理、实证分析、论文写作和政策倡导的研究过程。
 
 我的研究领域包括：
 - 教育经济学

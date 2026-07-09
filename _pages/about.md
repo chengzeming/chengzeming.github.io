@@ -62,7 +62,7 @@ redirect_from:
 - Tang, B., `Cheng, Z.*`, Lin, X., Ma, Y., Li, X., Liu, H.* (2026). Regional Innovation-Driven Platforms and Entrepreneurial Confidence: Evidence from Technology-based SMEs in China. *Sustainability*, 18(12), 5805.  
   `JCR Q2` `中科院三区` `通讯作者`
 
-- Shi, Y., Tang, B.*, `Cheng, Z.` (2026). Human Capital Cultivation and High-Quality Economic Development: Twenty Years of Practice and Experience with Randomized Controlled Trials in China’s Rural Education. *China Economic Journal*. Accepted & Forthcoming.
+- Shi, Y., Tang, B., `Cheng, Z.` (2026). Human Capital Cultivation and High-Quality Economic Development: Twenty Years of Practice and Experience with Randomized Controlled Trials in China’s Rural Education. *China Economic Journal*. Accepted & Forthcoming.
   `JCR Q2` `中科院三区`
 
 - Tang, B., Lin, X., `Cheng, Z.`, Chang, F., Liu, H., Shi, Y. (2026). From Siblings to Skills: How Does Sibling Structure Shape Children’s Cognitive and Non-cognitive Abilities in Rural Northwest China. *Acta Psychologica*, 266, 106873.  
